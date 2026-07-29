@@ -48,4 +48,6 @@ function generateStory() {
     // TODO: replace "" with the correct expression
     story.textContent = "";
     story.style.visibility = "visible";
+
+    
 }
