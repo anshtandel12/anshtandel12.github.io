@@ -49,6 +49,7 @@ function updateDisplayedImage(e) {
   displayedImage.alt = e.target.alt;
 }
 
+
 // Solution: Wire up the Darken/Lighten button
 
 // Add a click event listener on the button
