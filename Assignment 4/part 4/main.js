@@ -33,3 +33,10 @@ window.addEventListener("keydown", (e) => {
       break;
   }
 });
+p {
+  position: absolute;
+  margin: 0;
+  top: 35px;
+  right: 5px;
+  color: #aaaaaa;
+}
